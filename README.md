@@ -1,0 +1,2 @@
+# CANnect
+Concordia Alumni Network
